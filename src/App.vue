@@ -63,10 +63,6 @@ a:hover {
 
 .m {
   text-align:center;
-  text-decoration:none;
+ }
 
-}
-router-link {
-
-}
 </style>
